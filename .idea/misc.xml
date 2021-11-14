@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/1.factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/4.Builder-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/5.Proxy-Pattern/pom.xml" />
       </list>
     </option>
   </component>

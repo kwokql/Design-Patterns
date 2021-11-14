@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="4.Builder-Pattern" />
+        <module name="5.Proxy-Pattern" />
         <module name="1.factory-method" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1.factory-method" target="8" />
+      <module name="4.Builder-Pattern" target="1.5" />
+      <module name="5.Proxy-Pattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

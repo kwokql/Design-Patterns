@@ -4,9 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98e08fde-c1b6-47c4-b703-1bd3576c1f44" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1.factory-method/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.factory-method/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
+    <list default="true" id="98e08fde-c1b6-47c4-b703-1bd3576c1f44" name="默认变更列表" comment="默认变更列表">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/4.Builder-Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/ConcreteBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/ProductBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/5.Proxy-Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.factory-method/1.factory-method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1.factory-method/1.factory-method.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +38,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -42,16 +65,59 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kwokql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestMain (2)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwokql.TestMain" />
+      <module name="4.Builder-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwokql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwokql.TestMain" />
+      <module name="5.Proxy-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwokql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kwokql.TestMain" />
       <module name="1.factory-method" />
@@ -65,20 +131,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TestMain" />
+        <item itemvalue="Application.TestMain (2)" />
+        <item itemvalue="Application.TestMain (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +147,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636641176854</updated>
       <workItem from="1636641179057" duration="2887000" />
+      <workItem from="1636794255674" duration="953000" />
+      <workItem from="1636872654930" duration="5596000" />
     </task>
     <servers />
   </component>
@@ -107,5 +165,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

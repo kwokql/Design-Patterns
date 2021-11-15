@@ -4,14 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/1.factory-method/pom.xml" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/2.singleton-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/3.prototype-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/1.factory-pattern/pom.xml" />
-=======
-        <option value="$PROJECT_DIR$/4.Builder-Pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/5.Proxy-Pattern/pom.xml" />
->>>>>>> 85bd30b0147e435bc9c1cf13e9ce2a7804ec076e
+        <option value="$PROJECT_DIR$/5.proxy-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/4.builder-pattern/pom.xml" />
       </list>
     </option>
   </component>

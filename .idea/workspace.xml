@@ -5,31 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e08fde-c1b6-47c4-b703-1bd3576c1f44" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/4.Builder-Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/ConcreteBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/ProductBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/ConcreteBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/Director.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/ProductBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/TestMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/5.Proxy-Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain$Proxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain$RealSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain$Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/4.Builder-Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/ConcreteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/src/main/java/com/kwokql/ConcreteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/src/main/java/com/kwokql/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/src/main/java/com/kwokql/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/ProductBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/src/main/java/com/kwokql/ProductBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/src/main/java/com/kwokql/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/ConcreteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/target/classes/com/kwokql/ConcreteBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/target/classes/com/kwokql/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/target/classes/com/kwokql/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/target/classes/com/kwokql/ProductBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Builder-Pattern/target/classes/com/kwokql/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.builder-pattern/target/classes/com/kwokql/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/5.Proxy-Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/5.proxy-pattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/src/main/java/com/kwokql/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/5.proxy-pattern/src/main/java/com/kwokql/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain$Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/5.proxy-pattern/target/classes/com/kwokql/TestMain$Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain$RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/5.proxy-pattern/target/classes/com/kwokql/TestMain$RealSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain$Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/5.proxy-pattern/target/classes/com/kwokql/TestMain$Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Proxy-Pattern/target/classes/com/kwokql/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/5.proxy-pattern/target/classes/com/kwokql/TestMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +72,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="问题" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.16694492" />
     <property name="settings.editor.selected.configurable" value="build.tools" />
@@ -184,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636641176854</updated>
-      <workItem from="1636641179057" duration="12299000" />
+      <workItem from="1636641179057" duration="12545000" />
     </task>
     <servers />
   </component>

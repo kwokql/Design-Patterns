@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/1.factory-pattern/1.factory-pattern.iml" filepath="$PROJECT_DIR$/1.factory-pattern/1.factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.singleton-pattern/2.singleton-pattern.iml" filepath="$PROJECT_DIR$/2.singleton-pattern/2.singleton-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.prototype-pattern/3.prototype-pattern.iml" filepath="$PROJECT_DIR$/3.prototype-pattern/3.prototype-pattern.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/1.factory-method/1.factory-method.iml" filepath="$PROJECT_DIR$/1.factory-method/1.factory-method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4.Builder-Pattern/4.Builder-Pattern.iml" filepath="$PROJECT_DIR$/4.Builder-Pattern/4.Builder-Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5.Proxy-Pattern/5.Proxy-Pattern.iml" filepath="$PROJECT_DIR$/5.Proxy-Pattern/5.Proxy-Pattern.iml" />
->>>>>>> 85bd30b0147e435bc9c1cf13e9ce2a7804ec076e
+      <module fileurl="file://$PROJECT_DIR$/4.builder-pattern/4.builder-pattern.iml" filepath="$PROJECT_DIR$/4.builder-pattern/4.builder-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.proxy-pattern/5.proxy-pattern.iml" filepath="$PROJECT_DIR$/5.proxy-pattern/5.proxy-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
     </modules>
   </component>

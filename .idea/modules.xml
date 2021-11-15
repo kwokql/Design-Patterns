@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1.factory-method/1.factory-method.iml" filepath="$PROJECT_DIR$/1.factory-method/1.factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.factory-pattern/1.factory-pattern.iml" filepath="$PROJECT_DIR$/1.factory-pattern/1.factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.singleton-pattern/2.singleton-pattern.iml" filepath="$PROJECT_DIR$/2.singleton-pattern/2.singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.prototype-pattern/3.prototype-pattern.iml" filepath="$PROJECT_DIR$/3.prototype-pattern/3.prototype-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
     </modules>
   </component>

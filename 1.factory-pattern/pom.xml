@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kwokql</groupId>
-    <artifactId>1.factory-method</artifactId>
+    <artifactId>1.factory-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

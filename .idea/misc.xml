@@ -4,6 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/1.factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/2.singleton-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/3.prototype-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/1.factory-pattern/pom.xml" />
       </list>
     </option>
   </component>

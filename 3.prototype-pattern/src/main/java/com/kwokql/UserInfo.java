@@ -4,7 +4,6 @@ import java.util.HashMap;
 
 /**
  * @author ql kwok
- * @date 2021年11月12日 16:56
  * 用户类
  */
 

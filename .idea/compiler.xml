@@ -18,7 +18,7 @@
       <module name="2.singleton-pattern" target="8" />
       <module name="3.prototype-pattern" target="8" />
       <module name="4.builder-pattern" target="1.5" />
-      <module name="5.proxy-pattern" target="1.5" />
+      <module name="5.proxy-pattern" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>

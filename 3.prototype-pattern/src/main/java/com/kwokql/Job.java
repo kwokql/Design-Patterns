@@ -2,7 +2,6 @@ package com.kwokql;
 
 /**
  * @author ql kwok
- * @date 2021年11月12日 17:03
  */
 public class Job implements Cloneable {
     private String name;

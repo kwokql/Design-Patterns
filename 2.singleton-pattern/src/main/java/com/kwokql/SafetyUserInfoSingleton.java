@@ -7,7 +7,6 @@ import java.util.stream.IntStream;
 
 /**
  * @author ql kwok
- * @date 2021年11月12日 10:32
  * 线程安全懒汉单例
  */
 public class SafetyUserInfoSingleton {

@@ -2,7 +2,6 @@ package com.kwokql;
 
 /**
  * @author ql kwok
- * @date 2021年11月12日 10:32
  * 饿汉单例
  */
 public class HungryUserInfoSingleton {
